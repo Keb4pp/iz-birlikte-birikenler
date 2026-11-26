@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "İZ – Birlikte Birikenler",
+    "slug": "iz-birlikte-birikenler",
+    "scheme": "izbirlikte",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.izbirlikte.birliktebirikenler"
+    },
+    "android": {
+      "package": "com.izbirlikte.birliktebirikenler",
+      "adaptiveIcon": {
+        "backgroundColor": "#F6F2E9"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EAS_PROJECT_ID"
+      }
+    }
+  }
+}
